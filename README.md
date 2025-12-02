@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0B1220&height=130&text=Amar%20Duwal&fontSize=40&animation=twinkling" alt="Amar Duwal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0B1220&height=130&text=Amar%20Duwal&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Amar Duwal" />
 </p>
 
 <p align="center"><em>Senior Ruby on Rails Developer</em></p>
@@ -18,8 +18,8 @@
 
 ### Core tech
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,aws,react,js,jquery,py,git,linux,bash,heroku,bootstrap&perline=14" alt="Ruby, Rails, Postgres, AWS, React, JavaScript, jQuery, Python, Git, Linux, Bash, Heroku, Bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,aws,react,js,ts,vue,nextjs,flutter,py,nodejs,nestjs,supabase,linux,bash,git,github,docker,figma&perline=14" />
 </p>
 
 ---
@@ -30,10 +30,18 @@
   <a href="mailto:duwal.amar2006@gmail.com">Email</a>
 </p>
 
-### 🌟 Want to collaborate?
+## 🤝 Looking to Collaborate?
 
-I’m open to interesting projects in **AI, games, mobile apps, and secure systems**.
-Drop me a line via the portfolio site.
+I love working on **high-impact, well-crafted products** — especially in:
+
+- ⚙️ **Scalable backends (Rails, Node, NestJS)**
+- 🔐 **AI-assisted encryption & secure systems**
+- 📱 **Mobile apps with clean and modern UI**
+- 🧩 **Tools that solve real problems elegantly**
+
+If you’re building something meaningful, ambitious, or creatively challenging,
+I’d be glad to connect.
+Feel free to reach out anytime via my **portfolio** or **email**.
 
 <p align="center">
   <img alt="snake animation" src="https://raw.githubusercontent.com/amarduwal/amarduwal/output/github-contribution-grid-snake-dark.svg" />
