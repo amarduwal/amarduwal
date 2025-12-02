@@ -51,3 +51,9 @@ Drop me a line via the portfolio site.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amarduwal&show_icons=true&theme=dark&hide_border=true" alt="Amar's GitHub stats" />
 </p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/amarduwal/amarduwal/output/github-contribution-grid-snake-dark.svg" />
+</p>
